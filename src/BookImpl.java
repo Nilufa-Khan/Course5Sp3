@@ -17,6 +17,7 @@ public class BookImpl {
         for (Book val : bookList) {
             System.out.println(val);
         }
+        Collections.sort(bookList);
 
 
 
