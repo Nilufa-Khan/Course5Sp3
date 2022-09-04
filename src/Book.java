@@ -54,7 +54,7 @@ public class Book implements Comparable<Book>{
     }
     @Override
     public int compareTo(Book obj) {
-        // return    int order = author.compareTo(obj.author);
+
         if (this.price == obj.price) {
             return 0;
         }
@@ -62,7 +62,7 @@ public class Book implements Comparable<Book>{
             return -1;
 
         }
-        //return this.author.compareTo(obj.author);
+
         return 1;
     }
 
