@@ -19,7 +19,10 @@ public class BookImpl {
         }
         Collections.sort(bookList);
 
-
+        System.out.println("-------------------------------");
+        for ( Book val : bookList) {
+            System.out.println(val);
+        }
 
 
     }
