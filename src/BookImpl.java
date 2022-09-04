@@ -14,6 +14,9 @@ public class BookImpl {
                         new Book("SQL","eajiv",396,67863889L),
                         new Book("DBMS","dajiv",840,675434989L)
                 );
+        for (Book val : bookList) {
+            System.out.println(val);
+        }
 
 
 
