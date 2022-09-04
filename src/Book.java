@@ -52,6 +52,19 @@ public class Book implements Comparable<Book>{
                 ", isbn=" + isbn +
                 '}';
     }
+    @Override
+    public int compareTo(Book obj) {
+        // return    int order = author.compareTo(obj.author);
+        if (this.price == obj.price) {
+            return 0;
+        }
+        if (this.price < obj.price) {
+            return -1;
+
+        }
+        //return this.author.compareTo(obj.author);
+        return 1;
+    }
 
 
 
