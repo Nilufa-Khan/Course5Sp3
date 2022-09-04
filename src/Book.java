@@ -43,6 +43,16 @@ public class Book implements Comparable<Book>{
     public void setIsbn(long isbn) {
         this.isbn = isbn;
     }
+    @Override
+    public String toString() {
+        return "Book{" +
+                "bookName='" + bookName + '\'' +
+                ", author='" + author + '\'' +
+                ", price=" + price +
+                ", isbn=" + isbn +
+                '}';
+    }
+
 
 
 
