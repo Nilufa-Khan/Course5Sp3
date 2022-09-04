@@ -6,6 +6,12 @@ public class Student {
         //set is a reference variable and hashset is a implementation class
         //set produce unorderd and unique value
          Set<Integer> integerSet = new HashSet<>();
+        integerSet.add(12);
+        integerSet.add(11);
+        integerSet.add(13);
+        integerSet.add(12);//it not added as it is a duplicate
+        integerSet.add(18);
+
 
         }
     }
