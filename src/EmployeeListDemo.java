@@ -15,7 +15,6 @@ public class EmployeeListDemo
         list.add(new Employee("Shilpi", 1));
         list.add(new Employee("Swagata", 19));
         list.add(new Employee("Falguni", 17));
-
         for(Employee ele : list){
             System.out.println("ele = " + ele);
         }
