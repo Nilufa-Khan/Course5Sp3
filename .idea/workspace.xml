@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aea52159-c429-42a5-baef-d6e1b3f6e2e2" name="Changes" comment="implemnet equals" />
+    <list default="true" id="aea52159-c429-42a5-baef-d6e1b3f6e2e2" name="Changes" comment="creating tree set of employee type" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +254,49 @@
       <option name="project" value="LOCAL" />
       <updated>1662454076871</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="created getter setter">
+      <created>1662454208480</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454208480</updated>
+    </task>
+    <task id="LOCAL-00025" summary="created object of treeset">
+      <created>1662454260289</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454260289</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added employee object inside list">
+      <created>1662454307761</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454307761</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added employee object inside list">
+      <created>1662454418949</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454418949</updated>
+    </task>
+    <task id="LOCAL-00028" summary="iterating using for each loop">
+      <created>1662454459848</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454459848</updated>
+    </task>
+    <task id="LOCAL-00029" summary="creating tree set of employee type">
+      <created>1662454498823</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1662454498823</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,9 +311,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Declaring attributes" />
-    <MESSAGE value="creating default constructor" />
-    <MESSAGE value="creating parameterised constructor" />
     <MESSAGE value="Defining getter and setter" />
     <MESSAGE value="Overriding toString() method" />
     <MESSAGE value="Overriding compareTo() method" />
@@ -292,6 +331,11 @@
     <MESSAGE value="implemnet compareTo" />
     <MESSAGE value="implemnet hashCode" />
     <MESSAGE value="implemnet equals" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemnet equals" />
+    <MESSAGE value="created getter setter" />
+    <MESSAGE value="created object of treeset" />
+    <MESSAGE value="added employee object inside list" />
+    <MESSAGE value="iterating using for each loop" />
+    <MESSAGE value="creating tree set of employee type" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating tree set of employee type" />
   </component>
 </project>
