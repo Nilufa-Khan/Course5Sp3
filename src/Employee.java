@@ -8,7 +8,6 @@ public class Employee implements Comparable<Employee> {
         this.name = name;
         this.empId = empId;
     }
-
     public String getName() {
         return name;
     }
