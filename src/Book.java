@@ -13,7 +13,6 @@ public class Book implements Comparable<Book>{
         this.price = price;
         this.isbn = isbn;
     }
-
     public String getBookName() {
         return bookName;
     }
