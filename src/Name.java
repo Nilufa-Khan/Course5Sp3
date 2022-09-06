@@ -1,3 +1,3 @@
 public interface Name {
-boolean isStartingWithA(String name);
+    boolean isStartingWithA(String name);
 }
