@@ -18,7 +18,6 @@ public class EmployeeListDemo
         for(Employee ele : list){
             System.out.println("ele = " + ele);
         }
-
         System.out.println("-------------------------------");
         TreeSet<Employee> employeeSet = new TreeSet<>();
 
